@@ -60,6 +60,25 @@
             </componentInstanceProperties>
             <componentName>flexipage:filterListCard</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>entityName</name>
+                <value>Opportunity</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>filterName</name>
+                <value>Default_Opportunity_Pipeline</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>hideActionBar</name>
+                <value>false</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>pageSize</name>
+                <value>3</value>
+            </componentInstanceProperties>
+            <componentName>flexipage:filterListCard</componentName>
+        </componentInstances>
         <mode>Replace</mode>
         <name>bottomRight</name>
         <type>Region</type>
